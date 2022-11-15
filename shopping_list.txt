@@ -1,4 +1,6 @@
-EI maitoa
+5 litraa maitoa
+
+>>>>>>> f9f5a455516681c719faf10fedfda64f2eaeb2b7
 jauhelihaa
 
 hauki
